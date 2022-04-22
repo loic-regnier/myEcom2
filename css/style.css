@@ -3,3 +3,10 @@
     color: white;
     background-color:red;
 }
+
+ol {
+    color: red;
+    background-color:black;
+    display: flex;
+    justify-content: space-evenly;
+}
